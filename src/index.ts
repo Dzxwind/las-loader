@@ -20,7 +20,6 @@ class LasLoader {
       },
     }
     load(url, LASLoader, options).then((lasData) => {
-      console.log(lasData)
       const geometry = new THREE.BufferGeometry()
       geometry.setAttribute(
         'position',
