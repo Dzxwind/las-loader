@@ -1,6 +1,6 @@
 {
   "name": "@dzxwind/las-loader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "lasLoader for three.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
